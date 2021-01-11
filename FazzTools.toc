@@ -1,0 +1,12 @@
+## Interface: 90002
+## Title: FazzTools
+## Author: Fazze @ EU-Doomhammer
+## SavedVariables: FazzWeMetCount
+## SavedVariablesPerCharacter: FazzWeMetLastSeen
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+## LoadWith: Blizzard_TalkingHeadUI
+
+embeds.xml
+
+core.lua

@@ -2,7 +2,6 @@
 ## Title: FazzTools
 ## Author: Fazze @ EU-Doomhammer
 ## SavedVariables: FazzToolsInfo
-## SavedVariablesPerCharacter: FazzToolsInfoPerC
 ## OptionalDeps: Ace3
 ## X-Embeds: Ace3
 

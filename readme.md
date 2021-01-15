@@ -2,7 +2,7 @@
 
 ## Download
 
-<https://www.curseforge.com/wow/addons/fazz-tools>
+<https://www.curseforge.com/wow/addons/fazztools>
 
 ## Overview
 

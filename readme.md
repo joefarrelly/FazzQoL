@@ -1,4 +1,4 @@
-#FazzTools WoW Addon
+# FazzTools WoW Addon
 
 ## Download
 

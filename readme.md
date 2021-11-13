@@ -1,12 +1,12 @@
-# FazzTools WoW Addon
+# FazzQoL WoW Addon
 
 ## Download
 
-<https://www.curseforge.com/wow/addons/fazztools>
+<https://www.curseforge.com/wow/addons/fazzqol>
 
 ## Overview
 
-FazzTools is a collection of a few quality of life changes that I wanted for my own use 
+FazzQoL is a collection of a few quality of life changes that I wanted for my own use 
 in WoW without needing to download multiple addons. Written entirely in LUA.
 
 ## Features
